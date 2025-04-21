@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android developement**
 
-- 💬 Ask me about **Git and Github** **C/C++** **Java** **Javascript**
+- 💬 Ask me about **Git and Github** **,** **C/C++** **,** **Java** **,** **Javascript**
 
 - 📫 You can reach me via **darshandmysuru@gmail.com**
 
