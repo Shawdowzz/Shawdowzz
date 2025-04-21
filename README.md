@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Android developement**
 
-- 💬 Ask me about **Git and Github**
+- 💬 Ask me about **Git and Github** **C/C++** **Java** **Javascript**
 
-- 📫 How to reach me **darshandmysuru@gmail.com**
+- 📫 You can reach me via **darshandmysuru@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
